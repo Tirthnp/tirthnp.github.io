@@ -4,20 +4,22 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 // Components
 import Header from "../components/Header"
-import Work from "../components/Work"
+import Projects from "../components/Projects"
 import About from "../components/about"
 import Skills from "../components/skills"
-import Promotion from "../components/Promotion"
+import Experience from "../components/Experience"
 import Footer from "../components/Footer"
+import Education from "../components/Education"
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Portfolio Template" />
     <Header></Header>
-    <Work></Work>
+    <Experience></Experience>
+    <Education></Education>
+    <Projects></Projects>
     <About></About>
     <Skills></Skills>
-    <Promotion></Promotion>
     <Footer></Footer>
   </Layout>
 )
