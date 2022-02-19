@@ -184,9 +184,9 @@ export default {
       organization:"Radient360 Inc",
       description:[
         "Participate in the design and technical choicesthat build a SaaS cloud-based product",
-        "Work with the software development team todevelop and implement web and mobilesoftware applications",
-        "Maintain and improve the performance ofexisting software applicationsUtilize JIRA totrack issues and tasks throughout thedevelopment processProvide solutions bydemonstrating problem solving skills and",
-        "Clearly and regularly communicate withmanagement and technical support colleagues"
+        "Work with the software development team todevelop and implement web and mobile software applications",
+        "Maintain and improve the performance of existing software applications and utilize JIRA to track issues and tasks throughout the development process and provide solutions by demonstrating problem solving skills",
+        "Clearly and regularly communicate with management and technical support colleagues"
       ]
     },
     {
@@ -195,7 +195,7 @@ export default {
       title:"Web Developer",
       organization:"qualiTeas Inc",
       description:[
-        "Front-End and Back-End (FullStack) softwarebuilding",
+        "Front-End and Back-End (FullStack) software building",
         "Making software for chemical analysis"
       ]
     },
@@ -207,8 +207,8 @@ export default {
       description:[
         "Developing a traffic simulator using Unity",
         "Assisting with automation of office tasks",
-        "Completing Microsoft Excel work using Pythonscript",
-        "Participating in staff information sessions andlearning about not-for-profits",
+        "Completing Microsoft Excel work using Python script",
+        "Participating in staff information sessions and learning about not-for-profits",
         "General administration tasks"
       ]
     },
@@ -219,7 +219,7 @@ export default {
       organization:"Memorial University",
       description:[
         "Understanding Ethical Compliance bycompleting online simulations/modules orsurveys (CORE 2 Certificate Received)",
-        "Conducting effective research and literature analysis related to variouseducational techniques",
+        "Conducting effective research and literature analysis related to various educational techniques",
         "Reporting to supervising professor withwork progress sheet every week"
       ]
     },
